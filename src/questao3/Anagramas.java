@@ -1,12 +1,14 @@
-/*
- * @author Tânia Rocha
- * 
- * */
-
 package questao3;
 
 import java.util.Arrays;
 import java.util.HashMap;
+
+/*
+ * Classe utilizada para alocar métodos de verificação de anagramas
+ * 
+ * @author Tânia Rocha
+ * 
+ * */
 
 public class Anagramas {
 	

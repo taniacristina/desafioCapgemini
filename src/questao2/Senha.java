@@ -1,7 +1,18 @@
 package questao2;
 
+/*
+ * Classe utilizada para alocar os métodos de validação de senhas
+ * 
+ * @author Tânia Rocha
+ * */
 public class Senha {
 
+	/*
+	 * Método utilizado para validar se uma senha é segura
+	 * 
+	 * @param senha a ser testada
+	 * @return numero de caracteres faltantes para a senha ser segura
+	 * */
 	public int validaSenha (String senha) {
 		int caracteresFaltantes = 0;
 		
@@ -20,6 +31,13 @@ public class Senha {
 		
 	}
 	
+	/*
+	 * Método utilizado para validar se o tamanho de uma senha atende
+	 * ao minimo requerido
+	 * 
+	 * @param senha a ser testada
+	 * @return numero de caracteres faltantes para a senha chegar ao tamanho minimo
+	 * */
 	public int verificaTamanho (String senha) {
 		int lengthSenha = senha.length();
 		if (lengthSenha < 6) {
@@ -28,6 +46,12 @@ public class Senha {
 		return 0;
 	}
 	
+	/*
+	 * Método utilizado para validar se uma senha possui um número
+	 * 
+	 * @param senha a ser testada
+	 * @return 0 caso exista um número e 1 caso não exista
+	 * */
 	public int verificaDigito (String senha) {
      
 	  char[] charsSenha = senha.toCharArray();
@@ -46,6 +70,12 @@ public class Senha {
       return 0;
 	}
 	
+	/*
+	 * Método utilizado para validar se uma senha possui uma letra minúscula
+	 * 
+	 * @param senha a ser testada
+	 * @return 0 caso exista uma letra minúscula e 1 caso não exista
+	 * */
 	public int verificaMinusculo (String senha) {
 		
 	  char[] charsSenha = senha.toCharArray();
@@ -64,6 +94,12 @@ public class Senha {
       return 0;
 	}
 	
+	/*
+	 * Método utilizado para validar se uma senha possui uma letra maiúscula
+	 * 
+	 * @param senha a ser testada
+	 * @return 0 caso exista uma letra maiúscula e 1 caso não exista
+	 * */
 	public int verificaMaiusculo (String senha) {
 		
 		  char[] charsSenha = senha.toCharArray();
@@ -82,6 +118,12 @@ public class Senha {
 	      return 0;
 	}
 	
+	/*
+	 * Método utilizado para validar se uma senha possui um caracter especial
+	 * 
+	 * @param senha a ser testada
+	 * @return 0 caso exista um caracter especial e 1 caso não exista
+	 * */
 	public int verificaCaracteresEspeciais (String senha) {
 		String caracteresEspeciais = "!@#$%^&*()-+";
 		char[] charCaracteresEspeciais = caracteresEspeciais.toCharArray();

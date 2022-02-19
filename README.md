@@ -17,5 +17,6 @@
 
 <h2>Composição do Desafio:</h2>
 
+ - Observe as instruções para visualizar cada questão.
 
 # Questão 1 - Escada de Asteristicos

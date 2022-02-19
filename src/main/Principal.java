@@ -23,7 +23,6 @@ public class Principal {
 		// Questao 3
 		Anagramas anagrama = new Anagramas();
 		System.out.println(anagrama.getNumeroAnagramas("ovo"));
-		System.out.println(anagrama.getNumeroAnagramas("ifailuhkqq"));
 
 	}
 

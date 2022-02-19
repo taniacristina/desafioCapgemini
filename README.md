@@ -1,59 +1,59 @@
-<h1>**DESAFIO DE PROGRAMA√á√ÉO ACADEMIA CAPGEMINI**</h1>
+<h1>**DESAFIO DE PROGRAMA«√O ACADEMIA CAPGEMINI**</h1>
 
 
 <h4> Objetivos do Desafio: </h4>
 
 - Se divertir muito!
 - Se conectar ao seu lado criativo!
-- Testar os conhecimentos em **L√≥gica de Programa√ß√£o**!
+- Testar os conhecimentos em **LÛgica de ProgramaÁ„o**!
 
 
 <h4> Tecnologias Utilizadas: </h4>
 
-- Algumas xic√°ras m√©dias de **caf√© com leite**!
+- Algumas xic·ras mÈdias de **cafÈ com leite**!
 - IDE **Eclipse** !
 - Linguagem **Java**!
 
 
-<h2>Composi√ß√£o do Desafio:</h2>
+<h2>ComposiÁ„o do Desafio:</h2>
 
- - Observe as instru√ß√µes para visualizar cada quest√£o.
+ - Observe as instruÁıes para visualizar cada quest„o.
 
-# Quest√£o 1 - Escada de Asterisco
-
-
-‚òï O algoritmo da escada foi constr√≠ido a partir dos seguintes dados:
-
-1. Utilizando o caracter * e espa√ßos e utilizando um tamanho N, construa um algoritimo em que a base e a altura da escada devem ser iguais ao valor de N.
-2. A √∫ltima linha n√£o deve conter nenhum espa√ßo.
+# Quest„o 1 - Escada de Asterisco
 
 
-# Quest√£o 2 - Verificador de Senha
+ O algoritmo da escada foi constrÌido a partir dos seguintes dados:
+
+1. Utilizando o caracter * e espaÁos e utilizando um tamanho N, construa um algoritimo em que a base e a altura da escada devem ser iguais ao valor de N.
+2. A ˙ltima linha n„o deve conter nenhum espaÁo.
 
 
-‚òï O algoritmo de verifica√ß√£o de senha foi constru√≠do a partir dos seguintes dados:
-
-- Para verificar se uma senha digitada em um site √© forte, considere os seguintes crit√©rios:
-1. Possui no m√≠nimo 6 caracteres.
-2. Cont√©m no m√≠nimo 1 digito.
-3. Cont√©m no m√≠nimo 1 letra em min√∫sculo.
-4. Cont√©m no m√≠nimo 1 letra em mai√∫sculo.
-5. Cont√©m no m√≠nimo 1 caractere especial. Os caracteres especiais s√£o: !@#$%^&*()-+
-- Construa um algoritmo que a partir de uma string digitada informe qual √© o n√∫mero > m√≠nimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
+# Quest„o 2 - Verificador de Senha
 
 
-# Quest√£o 3 - Anagramas
+ O algoritmo de verificaÁ„o de senha foi construÌdo a partir dos seguintes dados:
+
+- Para verificar se uma senha digitada em um site È forte, considere os seguintes critÈrios:
+1. Possui no mÌnimo 6 caracteres.
+2. ContÈm no mÌnimo 1 digito.
+3. ContÈm no mÌnimo 1 letra em min˙sculo.
+4. ContÈm no mÌnimo 1 letra em mai˙sculo.
+5. ContÈm no mÌnimo 1 caractere especial. Os caracteres especiais s„o: !@#$%^&*()-+
+- Construa um algoritmo que a partir de uma string digitada informe qual È o n˙mero > mÌnimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
 
 
-‚òï O algoritmo de identifica√ß√£o dos anagramasfoi constru√≠do a partir dos seguintes dados:
-
-- Dada uma string qualquer, desenvolva um algoritmo que encontre o n√∫mero de pares de substrings que s√£o anagramas qualquer ser considerada segura
+# Quest„o 3 - Anagramas
 
 
-## üíª Rodando o c√≥digo:
+ O algoritmo de identificaÁ„o dos anagramasfoi construÌdo a partir dos seguintes dados:
 
-- Clone este reposit√≥rio usando: git clone https://github.com/taniacristina/desafioCapgemini
+- Dada uma string qualquer, desenvolva um algoritmo que encontre o n˙mero de pares de substrings que s„o anagramas qualquer ser considerada segura
+
+
+##  Rodando o cÛdigo:
+
+- Clone este repositÛrio usando: git clone https://github.com/taniacristina/desafioCapgemini
 - Importe o projeto no IDE
 - Identifique o packge em: src > main
 - Execute o pacote.
-- O resultado √© uma escada de asteriscos, a quantidade de caracteres faltantes para a senha escolhida ser forte e a quantidade par de anagramas na palava escolhida, tudo isso vis√≠vel no console da IDE. 
+- O resultado È uma escada de asteriscos, a quantidade de caracteres faltantes para a senha escolhida ser forte e a quantidade par de anagramas na palava escolhida, tudo isso visÌvel no console da IDE. 

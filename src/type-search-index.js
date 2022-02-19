@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"questao3","l":"Anagramas"},{"p":"questao1","l":"Escada"},{"p":"main","l":"Principal"},{"p":"questao1","l":"Principal"},{"p":"questao2","l":"Principal"},{"p":"questao3","l":"Principal"},{"p":"questao2","l":"Senha"}];updateSearchResults();

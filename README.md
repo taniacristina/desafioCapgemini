@@ -57,6 +57,3 @@
 - Identifique o packge em: src > main
 - Execute o pacote.
 - O resultado é uma escada de asteriscos, a quantidade de caracteres faltantes para a senha escolhida ser forte e a quantidade par de anagramas na palava escolhida, tudo isso visível no console da IDE. 
-
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>

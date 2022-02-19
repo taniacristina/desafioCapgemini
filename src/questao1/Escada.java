@@ -22,13 +22,11 @@ public class Escada {
 			// For para imprimir os espaços antes dos asteriscos
 			// o (i - 1) é utilizado para que a ultima linha não possua espaço
 			for (int j = 0; j < (i - 1) ; j++) {
-				//System.out.print(" ");
 				escada.append(" ");
 			}
 			
 			// For para imprimir o caracter asterisco
 			for (int j = i; j <= n; j++) {
-				//System.out.print("*");
 				escada.append("*");
 			}
 			

@@ -57,3 +57,19 @@
 - Identifique o packge em: src > main
 - Execute o pacote.
 - O resultado é uma escada de asteriscos, a quantidade de caracteres faltantes para a senha escolhida ser forte e a quantidade par de anagramas na palava escolhida, tudo isso visível no console da IDE. 
+
+## Teste:
+
+ - Anagrama:
+ 
+ 1. O teste do anagrama realiza a inserção de duas strings e verifica se o resultado é igual a saída esperada, de acordo com os exemplos dados no desafio.
+ 
+ 
+ - Teste da Escada:
+ 
+1. O teste da escada realiza a entrada do valor exemplo dado no desafio e verifica se a construção realizada pelo algoritmo reproduz a saída esperada.
+
+
+- Teste da Senha:
+
+1. O teste da senha verifica se cada método está realizando a verificação dos aspectos passados no desafio conforme a saída esperada.

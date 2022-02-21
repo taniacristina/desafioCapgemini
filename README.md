@@ -13,7 +13,7 @@
 - Algumas xicáras médias de **café com leite**!
 - IDE **Eclipse** !
 - Linguagem **Java**!
-- Teste **junit** !
+- Biblioteca **junit** para os testes !
 
 
 <h2>Composição do Desafio:</h2>
